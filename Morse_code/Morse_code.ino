@@ -7,7 +7,7 @@ void setup() {
 
 void loop() {
   delay(2000);  // 2 sec delay before program is repeated
-  morseString("SOS"); // 3*prik, 3*lang, 3*prik
+  morseString("SOS");
 }
 
 void morseString(String string) {  // Using string instead of char[] for cleaner function calls
