@@ -7,12 +7,12 @@ void loop() {
 
 // 17.2
 struct animal {
-  int age;
-  string "gender";
-  double weight;
-  double height;
-  bool alive;
-  int = ID;
+int age;
+char gender;
+double weight;
+double height;
+bool alive;
+int ID;
 
 }
 
@@ -20,7 +20,7 @@ struct animal {
 
 struct animal abe;
 abe.age = 55;
-abe.gender = "male";
+abe.gender = 'm';
 abe.weight = 102.2;
 abe.height = 44.3;
 abe.alive = false;
@@ -28,7 +28,7 @@ abe.ID = 0;
 
 struct animal hest;
 hest.age = 23;
-hest.gender = "female";
+hest.gender = 'f';
 hest.weight = 245.4;
 hest.height = 175.7;
 hest.alive = true;
