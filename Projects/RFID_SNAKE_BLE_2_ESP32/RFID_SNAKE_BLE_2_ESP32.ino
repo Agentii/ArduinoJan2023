@@ -182,7 +182,7 @@ void handleSnake(){
     spawnFruit();
     while(1) {
     snakeTheGame();
-    if (!digitalRead(25)||snake.isDead) { If the button on the joystick or you die in snake you exit the game.
+    if (!digitalRead(25)||snake.isDead) { // If the button on the joystick or you die in snake you exit the game.
       score = 0;
       SPI.begin(); // the RFID/NFC tag needs to be initialized again before it will work after running snake the game. 
       mfrc522.PCD_Init(); // the RFID/NFC tag needs to be initialized again before it will work after running snake the game. 
