@@ -32,8 +32,8 @@ int i = 0;                          // used for counting for the buzzer
 // this is needed as the ESP32servo.h allocates all the timers (0-3) for the servo motor. 
 
 // Internet connection details
-const char* ssid = "BGuest-Net2.4G";
-const char* pass = "29368283";
+const char* ssid = "SSID";
+const char* pass = "PASS";
 
 unsigned long channelID = 2008516;            // The ThingSpeak ChannelID
 const char* APIKey = "CP79KXZ97K0TY5MZ";      // The writeAPI key from ThingSpeak
