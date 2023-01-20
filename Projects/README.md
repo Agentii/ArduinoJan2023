@@ -13,5 +13,7 @@ Reference links
 ### Setup and installation <a name="setup"/>
 
 #### Installing libraries <a name="libraries"/>
+https://github.com/me-no-dev/ESPAsyncTCP
+https://github.com/me-no-dev/ESPAsyncWebServer
 
 #### Running the scripts <a name="run"/>
