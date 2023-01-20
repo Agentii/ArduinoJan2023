@@ -2,17 +2,16 @@
 ## Smart Home IoT project on ESP8266 and ESP32 modules
 
 # Table of contents
-1. [About](#About)
-2. [Setup and installation](#Setup and installation)
-  a. [Installing libraries](#Installing libraries)
-  b. [Running the scripts](#Running the scripts)
+1. [About](#about)<br>
+2. [Setup and installation](#setup)<br>
+  a.  [Installing libraries](libraries)<br>
+  b.  [Running the scripts](#run)<br>
 
-### About
+### About <a name="about"/>
 Reference links
 
-### Setup and installation
+### Setup and installation <a name="setup"/>
 
-#### Installing libraries
+#### Installing libraries <a name="libraries"/>
 
-
-#### Running the scripts
+#### Running the scripts <a name="run"/>
