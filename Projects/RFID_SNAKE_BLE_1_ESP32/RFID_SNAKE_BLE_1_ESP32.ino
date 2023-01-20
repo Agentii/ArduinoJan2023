@@ -228,7 +228,7 @@ void initBLE() {
                     );
 
   // We used this code for the Bluetooth:
-  // https://www.bluetooth.com/specifications/gatt/viewer?attributeXmlFile=org.bluetooth.descriptor.gatt.client_characteristic_configuration.xml
+  // https://randomnerdtutorials.com/esp32-bluetooth-low-energy-ble-arduino-ide/
   // Create a BLE Descriptor
   pCharacteristic->addDescriptor(new BLE2902());
 
