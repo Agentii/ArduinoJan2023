@@ -1,3 +1,9 @@
+/*
+ * January 2023
+ * DTU course: 34338 Telecommunication programming projects with Arduino
+ * Author(s): All group members
+ */
+
 // Include the needed libraries 
 #include <ESP32Servo.h> 
 #include <WiFi.h>
@@ -15,8 +21,8 @@ const int ESP32_2_RFID = 39;
 
 // Global variables
 int statusCode;
-const unsigned int readField = 2;   // Read from field 2
-const unsigned int writeField = 1;  // Write to field 1
+const unsigned int readField = 1;   // Read from field 1
+const unsigned int writeField = 2;  // Write to field 2 
 unsigned int tsState = 1;           // ThingSpeak State from the readField
 bool exitButton; 
 bool isLocked = true;               // The state of the Door. 

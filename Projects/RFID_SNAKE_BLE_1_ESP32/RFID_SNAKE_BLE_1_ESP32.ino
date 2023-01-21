@@ -1,3 +1,8 @@
+/*
+ * January 2023
+ * DTU course: 34338 Telecommunication programming projects with Arduino
+ * Author(s): All group members
+ */
 #include <SPI.h>
 #include <MFRC522.h>
 #include <MD_Parola.h>
