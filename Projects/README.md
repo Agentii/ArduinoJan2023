@@ -55,7 +55,7 @@ The libraries necessary for running the scripts are the following. Most of them 
 <li>  </li>
 </ul>
 
-* Note:
-The Async webserver libraries can be installed from their respective GitHubs.
+\* Note:
+The Async webserver libraries can be installed from their respective GitHubs.<br>
 https://github.com/me-no-dev/ESPAsyncTCP<br>
 https://github.com/me-no-dev/ESPAsyncWebServer
